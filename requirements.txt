@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+gradio
+supabase
+sentence-transformers
+python-dotenv
+chromadb
+tiktoken
+langchain-google-genai
